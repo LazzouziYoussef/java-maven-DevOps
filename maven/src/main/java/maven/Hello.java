@@ -3,7 +3,7 @@ package maven;
 public class Hello {
 
     public static void main(String[] args) {
-        System.out.println("Salam DevOps, Today is Monday night V2026.10...");
+        System.out.println("hello maven");
     }
 
 }
